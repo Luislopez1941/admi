@@ -1,0 +1,43 @@
+
+.navbar {
+    background-color: #014029;
+    height: 80px;
+}
+
+.navbar__title {
+    color: var(--color-white);
+    font-size: 1.3em;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+
+.main__navbars {
+    display: flex;
+    list-style: none;
+}
+
+.navbar a {
+    text-decoration: none;
+}
+.navbar a:hover {
+    color: var(--color-white);
+}
+.nav__link {
+    color: var(--color-white);
+    padding: 10px 30px;
+    
+}
+
+.navbar__click {
+    display: none;
+    background-color: #014029;
+}
+
+
+@media screen and (max-width: 800px) {
+    .navbar__click {
+        display: block;
+        background-color: #014029;
+    }
+}

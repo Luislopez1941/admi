@@ -1,0 +1,42 @@
+.sellproduct {
+   width: 90%;
+   height: 70%;
+    
+}
+
+
+.sellproduct .content h2 {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 40px;
+   
+
+}
+
+.container__sellproduct {
+    width: 100%;
+}
+.scanner video {
+    width: 200px;
+    height: 200px;
+}
+
+.sellproduct__content {
+    display: flex;
+    width: 100%;
+    height: 50%;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+
+.scanner {
+    width: 200px;
+    height: 200px;
+}
+
+.code {
+    width: 100%;
+    height: 20vh;
+    margin-top: 20px;
+}
