@@ -17,8 +17,9 @@
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.6",
     "react-router-dom": "^5.3.0",
-    "react-scripts": "^1.1.5",
+    "react-scripts": "^5.0.1",
     "recharts": "^2.6.2",
+    "victory-vendor": "^36.6.10",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
@@ -43,5 +44,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luislopez1941/admi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luislopez1941/admi/issues"
+  },
+  "homepage": "https://github.com/Luislopez1941/admi#readme"
 }
